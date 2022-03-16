@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Automata_run.dir/TEST_RUN/TEST.cpp.o CMakeFiles/Automata_run.dir/lib/AUTOMATA.cpp.o -o Automata_run 

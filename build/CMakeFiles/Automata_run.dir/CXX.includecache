@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ruben/Desktop/Homeworks/AUTOMATA_SIMULATOR/lib/AUTOMATA.cpp
+AUTOMATA.h
+/home/ruben/Desktop/Homeworks/AUTOMATA_SIMULATOR/lib/AUTOMATA.h
+
+/home/ruben/Desktop/Homeworks/AUTOMATA_SIMULATOR/lib/AUTOMATA.h
+iostream
+-
+set
+-
+string
+-
+sstream
+-
+unordered_map
+-
+cassert
+-
+algorithm
+-
+
